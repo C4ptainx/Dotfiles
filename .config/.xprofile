@@ -1,0 +1,5 @@
+feh --bg-fill /home/captain/Descargas/fondo.png
+picom &
+cbattion &
+source spyder-env/bin/activate
+PATH=/home/captain/spyder-env/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
