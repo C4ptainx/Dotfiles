@@ -33,7 +33,11 @@ vamos a clonar el repositorio de powerlevel10k https://github.com/romkatv/powerl
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 
+poner touchpad 
+en etc/X11/xorg.conf.d
 
+instalar 
+pulseaudio, blachlight, synaptics 
 
 
 
